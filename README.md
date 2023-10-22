@@ -1,7 +1,7 @@
 <img src="https://static.vecteezy.com/system/resources/previews/011/491/432/original/organic-shapes-art-backgrounds-on-pastel-color-trendy-modern-organic-shapes-with-copy-space-text-suitable-for-banner-poster-promotion-advertisement-flyer-or-template-free-vector.jpg" alt="banner" width="1200" height="400">
 
 
-<h1 align="center">Hi 👋, I'm Anshita</h1>
+<h1 align="center">Hi, I'm Anshita</h1>
 <h3 align="center">Currently pursuing Mtech CSIS from IIIT, Hyderabad.</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif">
 
